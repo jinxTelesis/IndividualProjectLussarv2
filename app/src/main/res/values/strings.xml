@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">individualProjectLussarV11</string>
+    <string name="loginbtnt">Login</string>
+    <string name="regbtn">Register</string>
+    <string name="user_nametv">Username</string>
+    <string name="passtv">Password</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="enter_infotv">Enter Information</string>
+    <string name="regformbtn">Register</string>
+    <string name="firstname">First Name</string>
+    <string name="fnhint">First Name</string>
+    <string name="lnhint">Last Name</string>
+    <string name="lntext">Last Name</string>
+    <string name="doblabel" />
+    <string name="dobhint">Date of Birth</string>
+    <string name="emailtxt">Enter Email</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="passhintform">Enter Password</string>
+    <string name="passwordtxt">Enter Password</string>
+    <string name="mainprogramtv">Main Program</string>
+    <string name="user_nametvreg">Enter Username</string>
+    <string name="splash_title">Jinx Studios</string>
+
+
+</resources>
