@@ -1,4 +1,4 @@
-package com.example.dre.individualprojectlussarv2;
+package com.example.dre.individualprojectlussarv2.Model;
 
 
 
@@ -180,6 +180,8 @@ public class LoginBackend {
         {
             if(validUnPass(u, p) && validNames(fn) && validNames(ln) && validEmail(em)) { //) && addUser(u, p)
 
+                //ToDo add shared preference or sql storage for usernames
+                //ToDo develop a user class to hold login info
                 if (addUser(u, p))// adds to both Users and mPassword
                 {
                     mFirstName.add(fn); // add user works something in validation is broken

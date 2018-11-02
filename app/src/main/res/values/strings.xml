@@ -21,6 +21,18 @@
     <string name="mainprogramtv">Main Program</string>
     <string name="user_nametvreg">Enter Username</string>
     <string name="splash_title">Jinx Studios</string>
+    <string name="GameInstructions">Questions 1-5 are worth 20 points each. Questions
+    may have multiple answers. The third question is a bar you drag to a value and if you are with 5 of the
+    answer you get credit. The 6th question lets you wager a precentage of your points 0-100 for up to 200 points</string>
+    <string name="GameInTitle">Game Rules</string>
+    <string name="GameInstruction1">Questions 1-5 are worth 20 points</string>
+    <string name="GameInstruction2">Questions may have multiple answers</string>
+    <string name="GameInstruction3">For question 3 drag the bar to within 5 points for credit</string>
+    <string name="GameInstruction4">Question 6 lets you wager your points for up to 200 points</string>
+    <string name="RulesClick">RULES</string>
+    <string name="PlayClick">Play Game</string>
+    <string name="topscores">Top Scores</string>
+    <string name="richroll">\????</string>
 
 
 </resources>
